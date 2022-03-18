@@ -1,3 +1,13 @@
 .carousel-item {
     max-height: 600px;
 }
+
+.carousel-caption {
+    background-color: hsla(0, 23%, 95%, 0.521);
+    border-radius: 10px;
+}
+
+.bt {
+    color: white;
+    padding: 6px
+}
