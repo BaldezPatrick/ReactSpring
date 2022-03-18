@@ -1,0 +1,26 @@
+footer {
+    background-color: black;
+    max-width: 100%;
+    padding: 15px;
+}
+
+p {
+    font-size: 12px;
+}
+
+.contact {
+    max-width: 300px;
+}
+
+.cont {
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+
+@media (max-width: 640px) {
+    .cont {
+        text-align: center;
+        grid-template-columns: auto;
+        justify-content: center;
+    }
+}

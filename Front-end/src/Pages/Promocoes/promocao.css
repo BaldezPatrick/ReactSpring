@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+
+.texto-top {
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+    margin: 25px 50px;
+}
+
+.texto-top p {
+    font-size: 15pt;
+    margin-top: -10px;
+}
+
+.card {
+    max-width: 450px;
+}
+
+.card-body p {
+    font-size: 12pt;
+}
