@@ -25,3 +25,7 @@ The project's front-end is made with ReactJs and its concepts like Hooks and com
 Axios is used to connect to the database.
 
 ### Back-end
+
+In the back-end Java Spring Boot and Spring MVC are used. Standard SQL (with MySQL) is used for the database. Thus, a basic CRUD is created.
+
+image.png
