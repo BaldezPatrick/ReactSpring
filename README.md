@@ -45,3 +45,5 @@ The ordering of the elements of this page was done useing flex-box.
 ![travel_page_1](https://user-images.githubusercontent.com/94052356/197088548-1499d218-c44e-47b1-8816-4bd7d825d5b0.png)
 
 ![travel_page_dimension](https://user-images.githubusercontent.com/94052356/197089278-438d71b8-3961-4d29-b999-7cf929757c03.png)
+
+![Sem título](https://user-images.githubusercontent.com/94052356/197089694-a99d3572-7d61-4949-b49f-c9b986ada19f.png)
