@@ -17,7 +17,7 @@ You may also see any lint errors in the console.
 
 ### Back-end
 
-Runs the app in SpringTool4 with command Run As Spring Boot App.
+Runs the app in SpringTool4 with command Run As Spring Boot App. \
 Open [http://localhost:8080](http://localhost:8080) to view it in your browser.
 
 ## About the project
