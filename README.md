@@ -30,12 +30,9 @@ In the back-end Java Spring Boot and Spring MVC are used. Standard SQL (with MyS
 
 ## Project images
 
-### Home Page
+### Home Page Video
 
-![home_page](https://user-images.githubusercontent.com/94052356/197085507-dbb4668f-3496-4d2b-8428-acccb81ea857.png)
-
-![iPhone_SE_dimension](https://user-images.githubusercontent.com/94052356/197086476-be0dd3df-e85e-48f0-aef4-80fc186b84bf.png)
-
+https://user-images.githubusercontent.com/94052356/197090355-cf332483-ea3d-405b-8392-3d17fae5c97b.mp4
 ### Travel Page 
 
 The ordering of the elements of this page was done useing flex-box.
