@@ -6,6 +6,7 @@ This project is a fictional travel webpage with ReactJs, Bootstrap, Java and Spr
 
 In the project directory, you can run:
 
+### Front-end
 ### `npm start`
 
 Runs the app in the development mode.\
@@ -13,6 +14,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+### Back-end
+
+Runs the app in SpringTool4 with command Run As Spring Boot App.
+Open [http://localhost:8080](http://localhost:8080) to view it in your browser.
 
 ## About the project
 
