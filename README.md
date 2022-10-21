@@ -28,4 +28,10 @@ Axios is used to connect to the database.
 
 In the back-end Java Spring Boot and Spring MVC are used. Standard SQL (with MySQL) is used for the database. Thus, a basic CRUD is created.
 
+### Project images
+
+## Home
+
 ![home_page](https://user-images.githubusercontent.com/94052356/197085507-dbb4668f-3496-4d2b-8428-acccb81ea857.png)
+
+![iPhone_SE_dimension](https://user-images.githubusercontent.com/94052356/197086476-be0dd3df-e85e-48f0-aef4-80fc186b84bf.png)
